@@ -51,18 +51,34 @@ HINT
 Analyze your dataset by using Pandas functions to answer the following questions:
 
 1. How many months exist on Mars?
+![image](https://user-images.githubusercontent.com/111756299/214963988-fc4dad9c-9b13-444a-ae51-75edef762126.png)
 
 2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+![image](https://user-images.githubusercontent.com/111756299/214964533-ed527fbb-e5bd-429d-9131-00b110eaabf1.png)
 
 3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
    Find the average the minimum daily temperature for all of the months.
-   Plot the results as a bar chart.
+   ![image](https://user-images.githubusercontent.com/111756299/214965325-dcc8ddd3-955a-4016-83ba-0f96b33e8306.png)
+
    
+   Plot the results as a bar chart.
+![image](https://user-images.githubusercontent.com/111756299/214965442-4165f386-555f-424a-949e-a906df628be1.png)
+
+![image](https://user-images.githubusercontent.com/111756299/214968077-0cc0bc90-799d-4710-bbe8-56c3ca2a3358.png)
+
+
 4. Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
 Find the average the daily atmospheric pressure of all the months.
+![image](https://user-images.githubusercontent.com/111756299/214968341-539055d7-4d5e-427c-983c-48918de89503.png)
+
 Plot the results as a bar chart.
+![image](https://user-images.githubusercontent.com/111756299/214970959-1fc6b300-8984-4641-9592-91a123f49920.png)
+
 
 5. About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 Visually estimate the result by plotting the daily minimum temperature.
+![image](https://user-images.githubusercontent.com/111756299/214973023-fe012a93-6ed5-4478-aee6-116d0ad30be0.png)
+
+
 Export the DataFrame to a CSV file.
