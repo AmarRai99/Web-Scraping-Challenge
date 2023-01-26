@@ -23,6 +23,7 @@ Store all the dictionaries in a Python list.
 
 Print the list in your notebook.
 
+![image](https://user-images.githubusercontent.com/111756299/214957980-79f10924-d7df-4b2a-bdf8-32c426626631.png)
 
 
 Optionally, store the scraped data in a file or database (to ease sharing the data with others). To do so, export the scraped data to either a JSON file or a MongoDB database.
