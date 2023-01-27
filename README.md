@@ -92,5 +92,6 @@ Visually estimate the result by plotting the daily minimum temperature.
 
 ![image](https://user-images.githubusercontent.com/111756299/214973023-fe012a93-6ed5-4478-aee6-116d0ad30be0.png)
 
+The data is organised to be able to obtain peak temperatures. The two peak temperatures are on sols 1582 and 926 respectively. The difference between these two days is 656. Therefore, we can assume that a Mars year is approximately 656 earth days. On google, a Mars year is said to be 687 earth days long. Therefore, as shown with the analysis, there is an insginificant difference between the dataset values and the estimated days in a year on Mars from a google search.
 
 Export the DataFrame to a CSV file.
